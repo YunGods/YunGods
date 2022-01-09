@@ -1,1 +1,1 @@
-# 🐱‍👤 Welcome to Zynh Github
+# 🐈‍ Welcome to Zynh Github
