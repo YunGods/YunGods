@@ -1,1 +1,4 @@
-# ![black-cat_1f408-200d-2b1b](https://user-images.githubusercontent.com/97395703/148689379-f297edf4-5025-4a9e-92dc-5c35314958a8.png) Welcome to Zynh Github
+# 🐬 Welcome to Zynh Github
+Hello, 안녕하세요, こんにちは !
+I am Zynh currently attending in Korea studing HTML, CSS, Python and JavaScript :>
+HTML, CSS, Python 그리고 JavaScript를 사용하는 현재 한국에서 재학중인 Zynh입니다 :>
