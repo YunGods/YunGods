@@ -2,4 +2,6 @@
 Hello, 안녕하세요, こんにちは !</br>I am Zynh currently attending in Korea studing HTML, CSS, Python and JavaScript :>
 
 # 🌐 Social Media
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+   <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+</a>
