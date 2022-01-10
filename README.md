@@ -2,4 +2,4 @@
 Hello, 안녕하세요, こんにちは !</br>I am Zynh currently attending in Korea studing HTML, CSS, Python and JavaScript :>
 
 # 🌐 Social Media
-<a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-SeyaWhy%230001-000000?style=flat&logo=discord"/></a>
+<a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Zynh%230001-000000?style=flat&logo=discord"/></a>
