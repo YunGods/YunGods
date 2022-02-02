@@ -1,5 +1,5 @@
-# 🐬 Welcome to Zynh Github
-Hello!</br>I am Zynh currently attending in Korea studing HTML, CSS, Python and JavaScript :>
+# 🐬 Welcome to Yun Github
+Hello!</br>I am Yun currently attending in Korea studing HTML, CSS, Python and JavaScript :>
 
 # 🌐 Social Media
 <a href=""><img src="https://img.shields.io/badge/-Zynh%230571-202225?style=flat&logo=discord"/></a>
