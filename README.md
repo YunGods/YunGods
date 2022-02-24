@@ -12,5 +12,7 @@
 
 ## 📂 Team
 <a href="https://scordbox.com/"><img src="https://img.shields.io/badge/-ScordBox-000000?style=flat&logo="/></a>
+
+<br>
 <br>
 <a href="https://discord.com/users/893424082945720351"><img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hi"/></a>
