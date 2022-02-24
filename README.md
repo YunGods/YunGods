@@ -10,5 +10,7 @@
 <a href="https://www.apple.com/kr/macos/monterey/"><img src="https://img.shields.io/badge/-Mac-5411B2?style=flat&logo=apple"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 
+## 📂 Team
+<a href="https://scordbox.com/"><img src="https://img.shields.io/badge/-ScordBox-000000?style=flat&logo="/></a>
 <br>
 <a href="https://discord.com/users/893424082945720351"><img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hi"/></a>
