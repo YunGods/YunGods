@@ -6,7 +6,7 @@ Hi
 ## 👨🏻‍💻 Languages
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF8849?style=flat&logo=HTML5"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-30A9DC?style=flat&logo=CSS3"/></a>
-<a href="https://www.python.org/%22%3E<img src="https://img.shields.io/badge/-Python-275277?style=flat&logo=python%22/%3E</a>
+<a href="https://www.python.org/%22%3E"><img src="https://img.shields.io/badge/-Python-275277?style=flat&logo=python%22/%3E</a>
 
 ## 📂 Team
 <a href="https://scordbox.com/"><img src="https://img.shields.io/badge/-ScordBox-000000?style=flat&logo="/></a>
