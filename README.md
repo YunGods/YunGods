@@ -1,5 +1,6 @@
 # 🐬 Welcome to Yun Github
 Hi
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungods)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://music.apple.com/kr/album/she-feat-cuzd-%EC%A5%B0%ED%82%A4-studio-version/1522619988?i=1522619992"><img src="https://img.shields.io/badge/-“She” by Jami Soul-000000?style=flat&logo=applemusic"/></a>
 
