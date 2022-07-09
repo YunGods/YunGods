@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/893424082945720351">
 <br>
 <img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hi"/></a>
-
+<br>
 ## 💻 Languages
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML"><img src="https://user-images.githubusercontent.com/97395703/178106448-3b39d258-3e02-4ba7-8f69-69159d522981.png"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-30A9DC?style=flat&logo=CSS3"/></a>
