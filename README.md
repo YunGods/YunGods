@@ -5,7 +5,7 @@
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usyuns)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://discord.com/users/893424082945720351">
 <br>
-<img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hi"/></a><br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=통!!!!!!! 통!!!!!!!!!!!!!!!!!!!! 푝퇀!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"/></a><br><br><br><br><br><br><br><br><br>
 ## 💻 Languages
 [Default Button](#){: .btn .btn--primary }
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-30A9DC?style=flat&logo=CSS3"/></a>
