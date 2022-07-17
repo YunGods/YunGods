@@ -1,8 +1,9 @@
 ![usyuns_banner](https://user-images.githubusercontent.com/97395703/178105820-e4a24561-e428-45a2-b537-b10eee9db2f9.png)\
 <br>
 <img width="490px" src="https://user-images.githubusercontent.com/97395703/178106098-5e847342-3703-408c-b75b-5a920e67ce56.png">
+<br><br>
 Github에 테마를 밝음으로 설정하시면 더 잘 보입니다!
-Set the theme to light on Github to see it better!
+<br>Set the theme to light on Github to see it better!
 <br>
 ## <img src="https://media.discordapp.net/attachments/930387452487675944/998234391304220762/unknown.png?width=23&height=23"> Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ts,python)](https://github.com/Usyuns)
