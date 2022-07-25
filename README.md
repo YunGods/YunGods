@@ -15,5 +15,4 @@
 <br><br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usyuns)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://discord.com/users/893424082945720351">
 <br>
-<img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=통!!!!!!! 통!!!!!!!!!!!!!!!!!!!! 푝퇀!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"/></a><br><br><br><br><br><br><br><br><br>
-<a href="https://discord.com/users/893424082945720351"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a>ㅤ<!-- &borderRadius=3px -->
+<a href="https://discord.com/users/893424082945720351"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&idleMessage=통!!!!!!! 통!!!!!!!!!!!!!!!!!!!! 푝퇀!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"/></a></a><br><br><br><br><br><br><br><br><br>
