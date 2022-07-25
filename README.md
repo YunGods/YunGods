@@ -16,3 +16,4 @@
 <a href="https://discord.com/users/893424082945720351">
 <br>
 <img align="left" src="https://lanyard.cnrad.dev/api/893424082945720351?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=통!!!!!!! 통!!!!!!!!!!!!!!!!!!!! 푝퇀!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"/></a><br><br><br><br><br><br><br><br><br>
+<a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a>ㅤ<!-- &borderRadius=3px -->
